@@ -1,5 +1,4 @@
-# press-assets
-Press assets for MAGNAT Fund
+# MAGNAT Press Assets
 
 This repository contains official media assets for MAGNAT.
 
